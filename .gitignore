@@ -36,3 +36,4 @@ next-env.d.ts
 .env
 node_modules
 dev.db*
+generated/
